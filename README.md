@@ -46,7 +46,7 @@ The game ends when the player collides with an obstacle.
 ### wowki simulation link
 https://wokwi.com/projects/398211349959691265
 
-###Team members:
+### Team members:
 
 Shehzada Gushtasp Khan (https://github.com/Gushtasp47)
 
