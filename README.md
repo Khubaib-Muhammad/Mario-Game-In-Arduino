@@ -1,8 +1,6 @@
 # Mario-Game-In-Arduino
 This project is a C++ implementation of a simple Mario-style game using a console interface. It incorporates game loops, collision detection, keyboard input handling, and scoring logic, providing a practical demonstration of basic game development concepts without a graphical engine.
-# Mario Console Game (C++)
 
-This project is a Mario-inspired console-based game developed in C++. It simulates basic platformer gameplay using a text-based interface, allowing players to control a character, avoid obstacles, and score points. The project focuses on implementing core programming concepts without the use of external graphics libraries.
 
 ## Overview
 
@@ -22,6 +20,7 @@ The game provides a simple yet interactive experience where the player navigates
 - C++
 - Standard libraries (iostream, conio.h, etc.)
 - Console-based rendering
+- Arduino
 
 ## How the Game Works
 
