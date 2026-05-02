@@ -47,6 +47,9 @@ The game ends when the player collides with an obstacle.
 https://wokwi.com/projects/398211349959691265
 
 ###Team members:
+
 Shehzada Gushtasp Khan (https://github.com/Gushtasp47)
+
 Kashan Maqsood (https://github.com/KashanMaqsood)
+
 Khubaib Muhammad (https://github.com/Khubaib-Muhammad)
