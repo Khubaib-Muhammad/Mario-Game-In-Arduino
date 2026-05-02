@@ -43,5 +43,10 @@ Points are awarded based on survival time or successful navigation through obsta
 ### Game Over
 The game ends when the player collides with an obstacle.
 
-# wowki simulation link
+### wowki simulation link
 https://wokwi.com/projects/398211349959691265
+
+###Team members:
+Shehzada Gushtasp Khan (https://github.com/Gushtasp47)
+Kashan Maqsood (https://github.com/KashanMaqsood)
+Khubaib Muhammad (https://github.com/Khubaib-Muhammad)
